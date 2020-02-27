@@ -1,5 +1,5 @@
 # PhubTv App
-Website for Phub porn Tv App for Linux and Winodws.
+Website for Phub porn Tv App for Linux and Winodws at [https://bit.do/phubapp](https://bit.do/phubapp)
 
 Phub Tv is a privacy focused porn Player and downloader application available for Linux and Windows Platform.
 
@@ -15,5 +15,7 @@ Phub Tv is a privacy focused porn Player and downloader application available fo
 * Millions of hand picked full length HD videos available.
 
 ## Downlod for Windows and Linux here :
+
+[Official website](https://bit.do/phubapp)
 
 [Latest from release page](https://github.com/keshavbhatt/phub/releases/latest)
