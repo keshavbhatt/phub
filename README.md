@@ -17,7 +17,7 @@ Phub Tv is a privacy focused porn Player and downloader application available fo
 More screenshots can be seen in [website](https://bit.do/phubapp)
 ![enter image description here](https://pbs.twimg.com/media/ER3wDIAXUAIGvvt?format=jpg&name=medium)
 
-## Downlod for Windows and Linux here :
+## Download for Windows and Linux here :
 
 [Official website](https://bit.do/phubapp)
 
